@@ -20,7 +20,7 @@ This plugin goes to great lengths to _not_ change the default behavior of
 Metalsmith unless it is very clear that is the intent of the dev.
 
  * `Metalsmith.clean` must be set to `false`
- * a `METALSMITH_OPEN` env var must be set (as a space-separated list of
+ * a `METALSMITH_ONLY` env var must be set (as a space-separated list of
    files to _only_ include)
 
 ## Configuration
