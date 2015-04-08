@@ -1,6 +1,8 @@
 {
   "name": "metalsmith-only-build",
   "version": "0.0.1",
+  "description": "Only build a certain subset of an entire metalsmith site.",
+  "repository": "segmentio/metalsmith-only-build",
   "main": "lib/index.js",
   "dependencies": {
     "debug": "^2.1.1",
